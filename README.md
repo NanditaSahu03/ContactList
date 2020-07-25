@@ -1,8 +1,8 @@
 # ContactList
 
-#Steps To Follow:
-#1.Create a folder Contact_List
-#2.Make 4 directories inside it naming assets,views,models,config
+Steps To Follow:
+1.Create a folder Contact_List
+2.Make 4 directories inside it naming assets,views,models,config
 3.Go to Contact_List directory in the terminal
 4.npm install express
 5.You will get package.json which has all dependencies of the app
